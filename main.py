@@ -22,7 +22,6 @@ def main():
     word_vectors.save(os.path.join(model_dir, "wordvectors.kv"))
 
     result = query(word=(input("enter your word:")),sentences=sentences)
-    print(result)
     return result
 
 if __name__ == "__main__":
