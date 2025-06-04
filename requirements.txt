@@ -1,0 +1,11 @@
+gensim==4.3.3
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.2.3
+regex==2024.11.6
+scipy==1.13.1
+
+#after installation do these:
+#python -m nltk.downloader punkt
+#python -m spacy download en_core_web_sm
+

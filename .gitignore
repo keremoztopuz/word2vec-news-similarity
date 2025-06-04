@@ -1,0 +1,17 @@
+# Bytecode dosyaları
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Model ve veri dosyaları
+models/
+data/
+
+# Jupyter notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# MacOS dosyası
+.DS_Store
